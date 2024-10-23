@@ -23,6 +23,7 @@
     <string name="start_text"> Counter Started </string>
     <string name="stop_text"> Counter Stopped </string>
     <string name="acc_sensor_not_available"> Accelerometer sensor is not available </string>
+    <string name="step_detector_not_available"> STEP DETECTOR sensor is not available </string>
 
     <string name="stop">Stop</string>
 

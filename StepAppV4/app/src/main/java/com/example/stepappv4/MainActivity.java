@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
                 || super.onSupportNavigateUp();
     }
 
-    // Ask for permission
+    // Ask for permission'/Users/adamkasperski/Documents/study/mobile computing/MWC-StepAppV4-Startup-Code/StepAppV4/app/build/outputs/apk/debug/output-metadata.json'
     private void getActivityPermission() {
         if (ActivityCompat.checkSelfPermission(MainActivity.this, Manifest.permission.ACTIVITY_RECOGNITION)
                 != PackageManager.PERMISSION_GRANTED)
